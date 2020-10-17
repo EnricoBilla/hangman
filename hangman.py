@@ -1,0 +1,2 @@
+var = ["xilofono", [], [False] + [True]*5]
+while var[2].pop(): print("Congrats, it was {}".format(var[0]) if (var[1].append(input(''.join(var[0][i] if (var[0][i] in var[1] or i==0 or i==len(var[0])-1) else "_" for i in range(len(var[0])))+"\n")) or (var[1][-1]==var[0] and (var[2].sort(reverse=True) or True)) or set(var[1]+[var[0][0], var[0][-1]]).issuperset(var[0])) else ("Retry" if var[2][-1] else "It was {} :(".format(var[0])))
